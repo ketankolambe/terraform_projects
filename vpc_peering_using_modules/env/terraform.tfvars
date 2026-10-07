@@ -1,0 +1,11 @@
+cidr_block = "10.0.0.0/16"
+instance_tenancy = "default"
+A_subnet_cidr_block = "10.0.1.0/24"
+ami_id = "ami-08e3b3155fc937a94"
+instance_type = "t3.micro"
+
+B_cidr_block = "20.0.0.0/16"
+B_instance_tenancy = "default"
+B_subnet_cidr_block = "20.0.1.0/24"
+b_instance_type = "t3.micro"
+b_ami_id = "ami-0298380f140c1c3ca"
