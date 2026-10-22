@@ -42,3 +42,9 @@ environments/compute/ec2/qa/.terraform.lock.hcl
 environments/networking/vpc/prod/.terraform.lock.hcl
 environments/networking/vpc/uat/.terraform.lock.hcl
 environments/storage/dev/.terraform.lock.hcl
+
+
+
+static-website-hosting-s3/environments/DNS/.terraform.lock.hcl
+static-website-hosting-s3/environments/Security/ACM/.terraform.lock.hcl
+static-website-hosting-s3/environments/Storage/S3/dev/.terraform.lock.hcl
