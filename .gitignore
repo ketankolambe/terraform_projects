@@ -48,3 +48,8 @@ environments/storage/dev/.terraform.lock.hcl
 static-website-hosting-s3/environments/DNS/.terraform.lock.hcl
 static-website-hosting-s3/environments/Security/ACM/.terraform.lock.hcl
 static-website-hosting-s3/environments/Storage/S3/dev/.terraform.lock.hcl
+
+
+db_project/Environment/Database/nosql/dynamodb/dev/.terraform.lock.hcl
+db_project/Environment/Database/sql/postgresql/dev/.terraform.lock.hcl
+db_project/Environment/Security/kms/dev/.terraform.lock.hcl
